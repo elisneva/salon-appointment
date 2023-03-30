@@ -18,19 +18,19 @@ If you are saving your progress on freeCodeCamp.org, after getting all the tests
 <h6>Complete the tasks below</h6>
 <ul>
 
-    You should create a database named salon
+    ✔️You should create a database named salon
 
-    <li>You should connect to your database, then create tables named customers, appointments, and services</li>
+    ✔️You should connect to your database, then create tables named customers, appointments, and services
 
-    <li>Each table should have a primary key column that automatically increments</li>
+    Each table should have a primary key column that automatically increments
 
-    <li>Each primary key column should follow the naming convention, table_name_id. For example, the customers table should have a customer_id key. Note that there’s no s at the end of customer</li>
+    Each primary key column should follow the naming convention, table_name_id. For example, the customers table should have a customer_id key. Note that there’s no s at the end of customer
 
-    <li>Your appointments table should have a customer_id foreign key that references the customer_id column from the customers table</li>
+    Your appointments table should have a customer_id foreign key that references the customer_id column from the customers table
 
-    <li>Your appointments table should have a service_id foreign key that references the service_id column from the services table</li>
+    Your appointments table should have a service_id foreign key that references the service_id column from the services table
 
-    <li>Your customers table should have phone that is a VARCHAR and must be unique</li>
+    Your customers table should have phone that is a VARCHAR and must be unique
 
     <li>Your customers and services tables should have a name column</li>
 
