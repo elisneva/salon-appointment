@@ -18,7 +18,7 @@ If you are saving your progress on freeCodeCamp.org, after getting all the tests
 <h6>Complete the tasks below</h6>
 <ul>
 
-    <li>You should create a database named salon</li>
+    You should create a database named salon
 
     <li>You should connect to your database, then create tables named customers, appointments, and services</li>
 
